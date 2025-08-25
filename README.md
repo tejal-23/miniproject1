@@ -1,12 +1,18 @@
 **Project Report**
+
 **Cricket Player Performance Stats (IPL)**
+
 **Domain:** Sports Analytics
+
 **Project Type:** CSV Based Data Analysis
+
 **Dataset Source:** Kaggle IPL Complete Dataset (2008-2024)
+
 **Tools & Libraries Used:** Python, Pandas, Matplotlib, Seaborn, Kagglehub
 
 **Project Overview**
 The objective of this project is to analyse cricket player performance over multiple IPL seasons. The analysis focuses on key batting and bowling metrics, identifying trends and highlighting top performers.
+
 The project provides insights such as:
 -Top batsmen and bowlers per season.
 -Players strike rates, batting averages, economy rates, and consistency scores.
@@ -32,8 +38,8 @@ The project uses the Kaggle IPL Complete Dataset (2008-2024). It contains:
 -batter, bowler, batsman_runs, total_runs, player_dismissed, dismissal_kind, etc.
 
 **Key Insights**
-1.	Certain players consistently perform well across seasons in both batting and bowling.
-2.	High strike rate does not always guarantee consistency; average is also critical.
-3.	Economy rate and wickets help identify the most effective bowlers.
-4.	Season-wise analysis highlights emerging stars and declining performances.
+-Certain players consistently perform well across seasons in both batting and bowling.
+-High strike rate does not always guarantee consistency; average is also critical.
+-Economy rate and wickets help identify the most effective bowlers.
+-Season-wise analysis highlights emerging stars and declining performances.
 
